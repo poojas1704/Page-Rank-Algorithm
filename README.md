@@ -1,1 +1,1 @@
-# ML-PS2
+# Page Rank Algorithm
